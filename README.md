@@ -1,8 +1,8 @@
 # ProTodo - Premium Task Manager
 
 ## Group Information
-- **Student 1:** [Full Name] - [Student ID] - Role: DevOps Engineer
-- **Student 2:** [Full Name] - [Student ID] - Role: Frontend Developer
+- **Student 1:** Sandu500 - [Student ID] - Role: DevOps Engineer
+- **Student 2:** Wimukthimadhavi55-afk - [Student ID] - Role: Frontend Developer
 - **Student 3:** [Full Name] - [Student ID] - Role: Frontend Developer
 
 ## Project Description
@@ -77,8 +77,8 @@ The project uses GitHub Actions for CI/CD:
 2. **Deploy Pipeline:** On every push to the `main` branch, the project is automatically deployed to the production environment (Vercel).
 
 ## Build Status
-![CI Pipeline](https://github.com/[username]/[repo]/workflows/CI%20Pipeline/badge.svg)
-![Deploy](https://github.com/[username]/[repo]/workflows/Deploy%20to%20Production/badge.svg)
+![CI Pipeline](https://github.com/sandu500/Blog-Platform/workflows/CI%20Pipeline/badge.svg)
+![Deploy](https://github.com/sandu500/Blog-Platform/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)
 
 ---
 *Developed as part of the DevOps Assignment.*
