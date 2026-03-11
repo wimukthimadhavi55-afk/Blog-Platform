@@ -1,15 +1,14 @@
 # ProTodo - Premium Task Manager
 
 ## Group Information
-- **Student 1:** Sandu500 - [Student ID] - Role: DevOps Engineer
-- **Student 2:** Wimukthimadhavi55-afk - [Student ID] - Role: Frontend Developer
-- **Student 3:** [Full Name] - [Student ID] - Role: Frontend Developer
+- **Student 1:** Wimukthimadhavi55-afk - [Student ID] - Role: DevOps Engineer
+- **Student 2:** Sandu500 - [Student ID] - Role: Frontend Developer
 
 ## Project Description
 ProTodo is a modern, responsive Todo List application designed with a premium Glassmorphism aesthetic. It allows users to efficiently manage their daily tasks with features like real-time task counting, filtering (All, Active, Completed), and persistent storage using `localStorage`. The project includes a full CI/CD pipeline integrated with GitHub Actions for automated linting, building, and deployment.
 
 ## Live Deployment
-🚀 **Live URL:** [Your deployed application URL]
+🚀 **Live URL:** [https://wimukthimadhavi55-afk.github.io/Blog-Platform/](https://wimukthimadhavi55-afk.github.io/Blog-Platform/)
 
 ## Technologies Used
 - HTML5 & CSS3 (Custom Glassmorphism Design)
