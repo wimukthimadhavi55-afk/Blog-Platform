@@ -45,10 +45,6 @@ We implemented the following branching strategy:
 - Premium CSS Glassmorphism UI implementation
 - Mobile responsiveness and accessibility
 
-### [Student 3 Name]
-- Core JavaScript logic development
-- Local Storage integration
-- Filtering and task counter features
 
 ## Setup Instructions
 ### Prerequisites
