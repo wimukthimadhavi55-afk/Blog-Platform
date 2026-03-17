@@ -1,6 +1,5 @@
 # ProTodo - Premium Task Manager
 
-## Group Information
 - **Student 1:** ITBNM-2313-0090[S.A.Madhavi]- Role: DevOps Engineer
 - **Student 2:** ITBNM-2313-0080[Saduni malka] - Role: Frontend Developer
 
@@ -48,6 +47,7 @@ We implemented the following branching strategy:
 - Semantic HTML structure
 - Premium CSS Glassmorphism UI implementation
 - Mobile responsiveness and accessibility
+
 
 ## Setup Instructions
 
