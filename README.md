@@ -13,6 +13,8 @@ ProTodo is a modern, responsive Todo List application designed with a premium Gl
 ## Technologies Used
 - HTML5 & CSS3 (Custom Glassmorphism Design)
 - JavaScript (Vanilla JS for core logic)
+- Express.js (Backend Server Configuration)
+- Docker & Docker Compose (Containerization)
 - GitHub Actions (CI/CD Pipeline)
 - Node.js (Development environment)
 - Vercel/Netlify (Deployment platform)
@@ -26,6 +28,7 @@ ProTodo is a modern, responsive Todo List application designed with a premium Gl
 - **Persistent Storage:** Tasks are saved to the browser's local storage.
 - **Task Counter:** Real-time feedback on remaining active tasks.
 - **Responsive UI:** Fully optimized for mobile and desktop screens.
+- **Cross-Platform Execution:** Run seamlessly using Docker containers and Express.js server.
 
 ## Branch Strategy
 We implemented the following branching strategy:
@@ -39,33 +42,51 @@ We implemented the following branching strategy:
 - GitHub Actions CI/CD pipeline implementation
 - Deployment setup and management
 - Initial project structure and documentation
-- Docker setup
+- Docker setup and Express Server integration
 
 ### Sandu500
 - Semantic HTML structure
 - Premium CSS Glassmorphism UI implementation
 - Mobile responsiveness and accessibility
 
-
 ## Setup Instructions
-### Prerequisites
+
+### Option 1: Run with Docker (Recommended)
+You can easily spin up the application using Docker and Docker Compose on any platform.
+1. Make sure you have [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed.
+2. Clone the repository and navigate into the folder:
+```bash
+git clone https://github.com/wimukthimadhavi55-afk/Blog-Platform.git
+cd Blog-Platform
+```
+3. Run the application:
+```bash
+docker-compose up -d --build
+```
+*The app will be accessible at: `http://localhost:3000`*
+
+### Option 2: Run Locally (Node.js)
+
+#### Prerequisites
 - Node.js (version 18 or higher)
 - Git
 
-### Installation
+#### Installation
 ```bash
 # Clone the repository
-git clone [your-repo-url]
+git clone https://github.com/wimukthimadhavi55-afk/Blog-Platform.git
 
 # Navigate to project directory
-cd todo-list-application
+cd Blog-Platform
 
-# Install dependencies (if any)
+# Install dependencies
 npm install
 
-# Run development server
+# Run the Express server
 npm start
 ```
+*The app will be accessible at: `http://localhost:3000`*
+
 
 ## Deployment Process
 The project uses GitHub Actions for CI/CD:
